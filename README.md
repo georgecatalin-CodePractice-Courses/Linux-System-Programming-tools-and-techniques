@@ -6,6 +6,6 @@ Code tryouts associated with the course "Linux System Programming Techniques &am
 
 
 ## Curriculum areas:
-*  Building and Managing a Library
+*  Build and Manage your own Library
 * Memory Management Concepts
 
