@@ -13,5 +13,5 @@ struct employee_t   /*  for compilation purposes, the compiler needs to know the
 struct occupation_t
 {
 	char designation[32];
-	struct cleemployee_t employee;
+	struct employee_t employee;
 };
